@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 22:18:25",
+  "updated_at": "2026-09-17 09:22:05",
   "products": [
     {
       "id": "demo07",
@@ -11,7 +11,7 @@
       "platform": "京东",
       "reason": "零食囤货",
       "category": "food",
-      "token": "￥DEMO076754￥",
+      "token": "￥DEMO070001￥",
       "image": ""
     },
     {
@@ -24,7 +24,7 @@
       "platform": "淘宝",
       "reason": "低价刚需囤货",
       "category": "home",
-      "token": "￥DEMO016066￥",
+      "token": "￥DEMO010001￥",
       "image": ""
     },
     {
@@ -37,7 +37,7 @@
       "platform": "淘宝",
       "reason": "带娃刚需",
       "category": "baby",
-      "token": "￥DEMO068416￥",
+      "token": "￥DEMO060001￥",
       "image": ""
     },
     {
@@ -50,7 +50,7 @@
       "platform": "淘宝",
       "reason": "夏季应季",
       "category": "digital",
-      "token": "￥DEMO088728￥",
+      "token": "￥DEMO080001￥",
       "image": ""
     },
     {
@@ -63,7 +63,7 @@
       "platform": "京东",
       "reason": "囤货装",
       "category": "home",
-      "token": "￥DEMO053928￥",
+      "token": "￥DEMO050001￥",
       "image": ""
     },
     {
@@ -76,7 +76,7 @@
       "platform": "京东",
       "reason": "自营常降价",
       "category": "food",
-      "token": "￥DEMO032598￥",
+      "token": "￥DEMO030001￥",
       "image": ""
     },
     {
@@ -89,7 +89,7 @@
       "platform": "淘宝",
       "reason": "应季低价",
       "category": "fashion",
-      "token": "￥DEMO049528￥",
+      "token": "￥DEMO040001￥",
       "image": ""
     },
     {
@@ -102,7 +102,7 @@
       "platform": "淘宝",
       "reason": "大额券到手价低",
       "category": "digital",
-      "token": "￥DEMO021700￥",
+      "token": "￥DEMO020001￥",
       "image": ""
     }
   ]
