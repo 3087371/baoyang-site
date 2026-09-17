@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>羊毛日报 · 今日薅羊毛精选</title>
+<meta name="description" content="每日精选全网电商好价：淘宝、京东优惠券、隐藏券、券后低价。复制口令一键领佣。">
+<meta property="og:title" content="羊毛日报 · 今日薅羊毛精选">
+<meta property="og:description" content="每日精选全网电商好价，复制口令自动领券">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="#/">🐑 羊毛日报</a>
+    <nav>
+      <a href="#/">今日精选</a>
+      <a href="#/about">关于</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <!-- 首页：商品列表 -->
+  <section id="page-home">
+    <div class="hero">
+      <h1>今日精选 <span id="date-label"></span></h1>
+      <p class="sub">每日 09:30 / 20:30 更新 · 全网优惠券 + 隐藏券 · 复制口令即可下单</p>
+    </div>
+    <div class="filters" id="filters">
+      <button data-cat="all" class="on">全部</button>
+      <button data-cat="food">食品</button>
+      <button data-cat="home">家居日用</button>
+      <button data-cat="beauty">美妆个护</button>
+      <button data-cat="fashion">服饰</button>
+      <button data-cat="digital">数码家电</button>
+      <button data-cat="baby">母婴</button>
+      <button data-cat="other">其他</button>
+    </div>
+    <div id="update-time" class="update-time"></div>
+    <div class="grid" id="grid"></div>
+    <div id="empty" class="empty" style="display:none">今日暂无精选，稍后再来～</div>
+  </section>
+
+  <!-- 商品详情 -->
+  <section id="page-item" style="display:none">
+    <button class="back" onclick="location.hash='#/'">← 返回列表</button>
+    <div id="item-detail" class="detail"></div>
+  </section>
+
+  <!-- 关于 -->
+  <section id="page-about" style="display:none">
+    <h2>关于羊毛日报</h2>
+    <div class="about-card">
+      <p>我们每日人工 + 算法双重筛选全网电商优惠券商品，只推<b>券后价真正低于日常价</b>的好货，帮你省钱。</p>
+      <h3>怎么买？</h3>
+      <ol>
+        <li>点击商品页「复制口令」</li>
+        <li>打开手机 淘宝 / 京东 APP</li>
+        <li>自动识别口令，弹出优惠信息，直接下单</li>
+      </ol>
+      <h3>加入羊毛群（每日推送）</h3>
+      <p>添加微信客服 <b>baoyangroup01</b>（占位，替换为你的微信号/群二维码），备注「进群」，每日 09:30 / 20:30 精选好价直接推送，无需注册。</p>
+      <h3>免责声明</h3>
+      <p>商品数据来自各电商平台，价格与库存以平台实际为准。本站可能通过淘宝联盟/京东联盟等 CPS 渠道获得推广佣金，这不会使商品涨价。</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p>羊毛日报 © 2026 · 价格信息实时更新，下单前请以电商APP内显示为准</p>
+    <p class="filing">推广渠道：淘宝联盟 / 京东联盟（CPS）</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
