@@ -1,0 +1,109 @@
+{
+  "updated_at": "2026-09-16 22:18:25",
+  "products": [
+    {
+      "id": "demo07",
+      "title": "螺蛳粉 3袋装 加辣加臭",
+      "price": 15.9,
+      "original_price": 35.0,
+      "commission": 2.4,
+      "coupon": "3",
+      "platform": "京东",
+      "reason": "零食囤货",
+      "category": "food",
+      "token": "￥DEMO076754￥",
+      "image": ""
+    },
+    {
+      "id": "demo01",
+      "title": "抽纸整箱 24包 餐巾纸",
+      "price": 19.9,
+      "original_price": 59.9,
+      "commission": 4.2,
+      "coupon": "30",
+      "platform": "淘宝",
+      "reason": "低价刚需囤货",
+      "category": "home",
+      "token": "￥DEMO016066￥",
+      "image": ""
+    },
+    {
+      "id": "demo06",
+      "title": "儿童防晒帽 大帽檐",
+      "price": 19.9,
+      "original_price": 49.0,
+      "commission": 3.3,
+      "coupon": "5",
+      "platform": "淘宝",
+      "reason": "带娃刚需",
+      "category": "baby",
+      "token": "￥DEMO068416￥",
+      "image": ""
+    },
+    {
+      "id": "demo08",
+      "title": "小风扇 便携式 静音",
+      "price": 25.9,
+      "original_price": 79.0,
+      "commission": 5.2,
+      "coupon": "15",
+      "platform": "淘宝",
+      "reason": "夏季应季",
+      "category": "digital",
+      "token": "￥DEMO088728￥",
+      "image": ""
+    },
+    {
+      "id": "demo05",
+      "title": "洗衣液 5kg 持久留香",
+      "price": 29.9,
+      "original_price": 89.9,
+      "commission": 5.8,
+      "coupon": "20",
+      "platform": "京东",
+      "reason": "囤货装",
+      "category": "home",
+      "token": "￥DEMO053928￥",
+      "image": ""
+    },
+    {
+      "id": "demo03",
+      "title": "牛奶 250ml*24盒 整箱",
+      "price": 39.9,
+      "original_price": 69.0,
+      "commission": 6.6,
+      "coupon": "9",
+      "platform": "京东",
+      "reason": "自营常降价",
+      "category": "food",
+      "token": "￥DEMO032598￥",
+      "image": ""
+    },
+    {
+      "id": "demo04",
+      "title": "防晒衣 冰丝 UPF50+",
+      "price": 39.9,
+      "original_price": 129.0,
+      "commission": 8.0,
+      "coupon": "20",
+      "platform": "淘宝",
+      "reason": "应季低价",
+      "category": "fashion",
+      "token": "￥DEMO049528￥",
+      "image": ""
+    },
+    {
+      "id": "demo02",
+      "title": "无线蓝牙耳机 降噪款",
+      "price": 89.0,
+      "original_price": 299.0,
+      "commission": 17.8,
+      "coupon": "120",
+      "platform": "淘宝",
+      "reason": "大额券到手价低",
+      "category": "digital",
+      "token": "￥DEMO021700￥",
+      "image": ""
+    }
+  ]
+}
